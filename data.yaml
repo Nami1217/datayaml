@@ -1,0 +1,13 @@
+names:
+- pole
+nc: 1
+Path: /content/merged_folder
+test: 
+    - ../test/images
+    - ../test2/images
+train: 
+    - ../train/images
+    - ../train2/images
+val: 
+    - ../valid/images
+    - ../valid2/images
