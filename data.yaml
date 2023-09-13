@@ -3,11 +3,11 @@ names:
 nc: 1
 
 test: 
-    - /content/First_Model_Dataset-1/test/images
-    - /content/TESTING-1/test/images
+    - /home/research/SafeGraph/Kilsar/First_Model_Dataset-1/test/images
+    - /home/research/SafeGraph/Kilsar/TESTING-1/test/images
 train: 
-    - /content/First_Model_Dataset-1/train/images
-    - /content/TESTING-1/train/images
+    - /home/research/SafeGraph/Kilsar//First_Model_Dataset-1/train/images
+    - /home/research/SafeGraph/Kilsar//TESTING-1/train/images
 val: 
-    - /content/First_Model_Dataset-1/valid/images
-    - /content/TESTING-1/valid
+    - /home/research/SafeGraph/Kilsar/First_Model_Dataset-1/valid/images
+    - /home/research/SafeGraph/Kilsar/TESTING-1/valid
